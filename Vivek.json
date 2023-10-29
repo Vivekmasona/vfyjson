@@ -2,19 +2,15 @@
   "videos": [
     {
       "imgSrc": "https://i.ytimg.com/vi/ZzDj3vwpkbA/maxresdefault.jpg",
-      "onClick": "searchChhathSongs()",
       "alt": "vfy",
       "width": "100%",
       "section": {
         "imgSrc": "/img/logo.png",
         "alt": "Vivekfy",
-        "width": "10%",
-        "div": {
-          "p": "Chhath Puja Geet /Chhath Songs",
-          "small": ["VFY", "Music Player"]
-        }
+        "width": "10%"
       }
     },
     // Add more video entries here
   ]
 }
+
